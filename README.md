@@ -2,10 +2,16 @@
 Vue.js + Tailwindcss WotV Gacha Sim
 
 ## Setup
-Clone the repo 
+This app requires vue.js so, first of all we're going to install it.
+```bash
+npm install -g vue-cli
+```
+
+Now clone the app repository
 ```bash
 git clone git@github.com:instantfred/wotv-gacha.git
 ```
+
 cd into it and make sure all packages are installed properly. 
 ```bash
 npm install
